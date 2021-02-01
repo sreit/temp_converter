@@ -5,7 +5,7 @@ This program's main purpose is to convert temperatures among Fahrenheit, Celsius
 
 
 It prompts the user for a starting degree and unit, as well as to which unit the user would like to convert.
-Then it will make the calculations for the conversion and display the new temperature.
+Then it will make the calculations for the conversion and display the new temperature. The program runs in the command line.
 
 
 This program contain several security measures:
