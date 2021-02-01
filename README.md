@@ -1,4 +1,4 @@
-# temp_converter
+# Temperature Converter
 ### Converts Fahrenheit, Celsius and Kelvin temperatures 
 
 This program's main purpose is to convert temperatures among Fahrenheit, Celsius and Kelvin.
